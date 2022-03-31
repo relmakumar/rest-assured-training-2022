@@ -1,0 +1,17 @@
+
+{
+  "firstname": "Kale",
+  "address": [
+	{
+	  "streetName": "spencer road",
+	  "houseNo": 2100
+	},
+	{
+	  "streetName": "pride road",
+	  "houseNo": 4100
+	}
+  ],
+  "id": 1119,
+  "age": 38,
+  "lastname": "Steph"
+}

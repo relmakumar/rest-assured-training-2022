@@ -1,0 +1,10 @@
+{
+  "firstname": "Heather",
+  "address": {
+	"streetName": "Blue Ridge",
+	"houseNo": "9"
+  },
+  "id": 1100,
+  "age": 35,
+  "lastname": "Leed"
+}

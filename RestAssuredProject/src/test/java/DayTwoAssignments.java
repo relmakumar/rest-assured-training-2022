@@ -9,7 +9,7 @@ import static org.hamcrest.Matchers.*;
 import java.util.List;
 
 
-public class RestAssuredClass {
+public class DayTwoAssignments {
 	Response response;
 	JsonPath jsonPath;
 	String uri = "";

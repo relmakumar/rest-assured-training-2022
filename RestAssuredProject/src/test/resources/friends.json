@@ -1,0 +1,127 @@
+{
+  "friends": [
+    {
+      "firstname": "Sachin",
+      "lastname": "Funde",
+      "id": 2,
+      "age": 25
+    },
+    {
+      "firstname": "Anirudha1",
+      "lastname": "Patil1",
+      "id": 23,
+      "age": 25
+    },
+    {
+      "firstname": "Smita",
+      "address": [
+        {
+          "streetName": "satara road",
+          "houseNo": 2111
+        },
+        {
+          "streetName": "paudh road",
+          "houseNo": 4121
+        }
+      ],
+      "id": 99,
+      "age": 25,
+      "lastname": "Shewale"
+    },
+    {
+      "firstname": "Rahul",
+      "address": {
+        "streetName": "Blue Ridge",
+        "houseNo": "7"
+      },
+      "id": 2000,
+      "age": 25,
+      "lastname": "Lanjevar"
+    },
+    {
+      "firstname": "Arif",
+      "id": 77,
+      "age": 25,
+      "lastname": "Mulla"
+    },
+    {
+      "firstname": "Kale",
+      "address": [
+        {
+          "streetName": "spencer road",
+          "houseNo": 2100
+        },
+        {
+          "streetName": "pride road",
+          "houseNo": 4100
+        }
+      ],
+      "id": 1119,
+      "age": 38,
+      "lastname": "Steph"
+    },
+    {
+      "firstname": "Heather",
+      "address": {
+        "streetName": "Blue Ridge",
+        "houseNo": "9"
+      },
+      "id": 1100,
+      "age": 35,
+      "lastname": "Leed"
+    },
+    {
+      "firstname": "Harish",
+      "lastname": "Palo",
+      "id": 8809,
+      "age": 20
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "API-Automation Day 1",
+      "author": "Sachin"
+    },
+    {
+      "id": 2,
+      "title": "API-Automation Day 2",
+      "author": "Sachin F"
+    },
+    {
+      "id": 3,
+      "title": "API-Automation Day 3",
+      "author": "Mahesh"
+    },
+    {
+      "id": 4,
+      "title": "API-Automation Day 4",
+      "author": "Anirudha"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment globant 1",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment globant 2",
+      "postId": 2
+    },
+    {
+      "id": 3,
+      "body": "some comment globant 3",
+      "postId": 3
+    },
+    {
+      "id": 4,
+      "body": "some comment globant 4",
+      "postId": 4
+    }
+  ],
+  "profile": {
+    "name": "globant"
+  }
+}
