@@ -13,68 +13,11 @@
       "age": 25
     },
     {
-      "firstname": "Arif",
-      "id": 77,
-      "age": 25,
-      "lastname": "Mulla"
-    },
-    {
-      "firstname": "Rahul",
-      "address": {
-        "streetName": "Blue Ridge",
-        "houseNo": "7"
-      },
-      "id": 2000,
-      "age": 25,
-      "lastname": "Lanjevar"
-    },
-    {
-      "firstname": "Smita",
-      "address": [
-        {
-          "streetName": "satara road",
-          "houseNo": 2111
-        },
-        {
-          "streetName": "paudh road",
-          "houseNo": 4121
-        }
-      ],
-      "id": 99,
-      "age": 25,
-      "lastname": "Shewale"
-    },
-    {
-      "firstname": "Harish",
-      "lastname": "Palo",
-      "id": 8809,
-      "age": 20
-    },
-    {
-      "firstname": "Heather",
-      "address": {
-        "streetName": "Blue Ridge",
-        "houseNo": "9"
-      },
-      "id": 1100,
-      "age": 35,
-      "lastname": "Leed"
-    },
-    {
-      "firstname": "Kale",
-      "address": [
-        {
-          "streetName": "spencer road",
-          "houseNo": 2100
-        },
-        {
-          "streetName": "pride road",
-          "houseNo": 4100
-        }
-      ],
-      "id": 1119,
-      "age": 38,
-      "lastname": "Steph"
+      "firstName": "Sherry",
+      "lastname": "Cobath",
+      "id": 1199,
+      "address": null,
+      "age": 25
     }
   ],
   "posts": [
