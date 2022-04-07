@@ -13,6 +13,22 @@
       "age": 25
     },
     {
+      "firstname": "Arif",
+      "id": 77,
+      "age": 25,
+      "lastname": "Mulla"
+    },
+    {
+      "firstname": "Rahul",
+      "address": {
+        "streetName": "Blue Ridge",
+        "houseNo": "7"
+      },
+      "id": 2000,
+      "age": 25,
+      "lastname": "Lanjevar"
+    },
+    {
       "firstname": "Smita",
       "address": [
         {
@@ -29,20 +45,20 @@
       "lastname": "Shewale"
     },
     {
-      "firstname": "Rahul",
-      "address": {
-        "streetName": "Blue Ridge",
-        "houseNo": "7"
-      },
-      "id": 2000,
-      "age": 25,
-      "lastname": "Lanjevar"
+      "firstname": "Harish",
+      "lastname": "Palo",
+      "id": 8809,
+      "age": 20
     },
     {
-      "firstname": "Arif",
-      "id": 77,
-      "age": 25,
-      "lastname": "Mulla"
+      "firstname": "Heather",
+      "address": {
+        "streetName": "Blue Ridge",
+        "houseNo": "9"
+      },
+      "id": 1100,
+      "age": 35,
+      "lastname": "Leed"
     },
     {
       "firstname": "Kale",
@@ -59,22 +75,6 @@
       "id": 1119,
       "age": 38,
       "lastname": "Steph"
-    },
-    {
-      "firstname": "Heather",
-      "address": {
-        "streetName": "Blue Ridge",
-        "houseNo": "9"
-      },
-      "id": 1100,
-      "age": 35,
-      "lastname": "Leed"
-    },
-    {
-      "firstname": "Harish",
-      "lastname": "Palo",
-      "id": 8809,
-      "age": 20
     }
   ],
   "posts": [

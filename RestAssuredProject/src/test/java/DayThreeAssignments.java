@@ -1,12 +1,8 @@
 import static io.restassured.RestAssured.given;
-import static org.hamcrest.Matchers.is;
-import static org.hamcrest.Matchers.anyOf;
 import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.hasItem;
-import static org.testng.Assert.assertEquals;
 
 import java.io.File;
-import java.util.Arrays;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -14,14 +10,10 @@ import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 import io.restassured.http.ContentType;
-import io.restassured.path.json.JsonPath;
 
 
 public class DayThreeAssignments {
-  @Test
-  public void f() {
-  }
-  
+   
   @DataProvider
   public static Object[][] postsInfo() {
       return new Object[][] {

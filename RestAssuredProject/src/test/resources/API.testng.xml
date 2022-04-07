@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="APIDemo" >
+	<!-- <listeners>
+		<listener
+			class-name="reports.ExtentTestNGIReporterListener" />
+	</listeners> -->
+    <test name="API">
+    	<parameter name="baseUrl" value="http://zippopotam.us/"/>
+        <classes>
+            <class name="tests.Day3.Day3Tests"/>
+        </classes>
+    </test>
+</suite>
