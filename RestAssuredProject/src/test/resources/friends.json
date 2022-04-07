@@ -18,6 +18,13 @@
       "id": 1199,
       "address": null,
       "age": 25
+    },
+    {
+      "firstname": "Kiara",
+      "lastname": "Beth",
+      "id": 25,
+      "age": 33,
+      "address": null
     }
   ],
   "posts": [

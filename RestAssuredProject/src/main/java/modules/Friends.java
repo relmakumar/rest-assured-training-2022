@@ -6,7 +6,7 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class Friends {
-	@JsonProperty("firstName")
+	@JsonProperty("firstname")
 	private String firstname;
 	@JsonProperty("lastname")
 	private String lastname;

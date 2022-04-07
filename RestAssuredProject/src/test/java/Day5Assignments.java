@@ -49,7 +49,8 @@ public class Day5Assignments {
 	
 	@Test
 	public void verifyAddSameFriend() {
-		FriendWithLombok newFriend = FriendWithLombok.builder().firstname("Kiara").age(33).id(1199).lastname("Beth").build();
+		List<Friends> friendList = Arrays.asList(given().spec(requestSpec).get("friends").as(Friends[].class));
+		FriendWithLombok newFriend = FriendWithLombok.builder().firstname("Kiara").age(33).id(friendList.get(0).getId()).lastname("Beth").build();
 		
 		Response response = given().spec(requestSpec).body(newFriend).post("friends");
 		Assert.assertEquals(response.statusCode(),500);
